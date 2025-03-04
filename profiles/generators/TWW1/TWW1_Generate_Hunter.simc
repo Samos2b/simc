@@ -4,23 +4,24 @@ race=dwarf
 role=attack
 position=ranged_back
 spec=beast_mastery
-talents=C0PAAAAAAAAAAAAAAAAAAAAAAYstMwAGwswWgxCAAAAAAGAAAAAAAzYYWmZMMzYmZMDzyMjxMzMZGGzMzMzYmxMMGmZgBzyMDb
 
-head=,id=212020,bonus_id=1808,gem_id=213743,ilevel=639
-neck=,id=225577,bonus_id=8781,gem_id=213479/213470,ilevel=639
-shoulder=,id=212018,bonus_id=4795,ilevel=639
-back=,id=225574,enchant_id=7403,ilevel=639
-chest=,id=212023,bonus_id=4795,enchant_id=7364,ilevel=639
-wrist=,id=219342,bonus_id=1808/11303/8960/8790,enchant_id=7385,gem_id=213494,ilevel=636
-hands=,id=219341,bonus_id=11303/8960/8790,ilevel=636
-waist=,id=212017,bonus_id=1808,gem_id=213455,ilevel=639
-legs=,id=212019,bonus_id=4795,enchant_id=7601,ilevel=639
-feet=,id=212022,bonus_id=4795,enchant_id=7418,ilevel=639
-finger1=,id=225578,bonus_id=8781,enchant_id=7340,gem_id=213455/213455,ilevel=639
-finger2=,id=212447,bonus_id=8781,enchant_id=7340,gem_id=213455/213455,ilevel=639
-trinket1=,id=133282,ilevel=639
-trinket2=,id=212454,bonus_id=1540/10299/10376
-main_hand=,id=212400,bonus_id=1540/10299,enchant_id=7460
+talents=C0PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswWgxCAAAAAAGjxwsMzMDzMmZYhZMzYMzMTMmxMzMzMmZMjZMMzADGzMsBAAAAAAA
+
+head=lightless_scavengers_skull,id=212020,bonus_id=1808,gem_id=213479,ilevel=639
+neck=sureki_zealots_insignia,id=225577,bonus_id=8781,gem_id=213479/213479,ilevel=639
+shoulder=lightless_scavengers_taxidermy,id=212018,bonus_id=4795,ilevel=639
+back=wings_of_shattered_sorrow,id=225574,enchant_id=7403,ilevel=639
+chest=lightless_scavengers_tunic,id=212023,bonus_id=4795,enchant_id=7364,ilevel=639
+wrist=glyphetched_vambraces,id=219342,bonus_id=1808/11303/8960/8791,enchant_id=7385,gem_id=213479,ilevel=636
+hands=glyphetched_gauntlets,id=219341,bonus_id=11303/8960/8791,ilevel=636
+waist=lightless_scavengers_bonegirdle,id=212017,bonus_id=1808,gem_id=213479,ilevel=639
+legs=lightless_scavengers_stalkings,id=212019,bonus_id=4795,enchant_id=7601,ilevel=639
+feet=lightless_scavengers_footpads,id=212022,bonus_id=4795,enchant_id=7424,ilevel=639
+finger1=seal_of_the_poisoned_pact,id=225578,bonus_id=8781,enchant_id=7340,gem_id=213479/213479,ilevel=639
+finger2=cyrces_circlet,id=228411,bonus_id=1511/11988/11964,enchant_id=7340,gem_id=228639/228638/228646
+trinket1=skardyns_grace,id=133282,ilevel=639
+trinket2=mad_queens_mandate,id=212454,bonus_id=1540/10299/10376
+main_hand=shadetouched_silencer,id=212400,bonus_id=1540/10299,enchant_id=7460
 
 save=TWW1_Hunter_Beast_Mastery_Dark_Ranger.simc
 
@@ -30,23 +31,24 @@ race=dwarf
 role=attack
 position=ranged_back
 spec=beast_mastery
-talents=C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsAbDDNsBAAAAAgBAAAAAAYGLDzyMjhxYmZMMjZGjZmZyMMmxMjxMjZYMMzwsMDWmZYD
 
-head=,id=212020,bonus_id=1808,gem_id=213743,ilevel=639
-neck=,id=225577,bonus_id=8781,gem_id=213467/213491,ilevel=639
-shoulder=,id=212018,bonus_id=4795,ilevel=639
-back=,id=212446,enchant_id=7403,ilevel=639
-chest=,id=212023,bonus_id=4795,enchant_id=7364,ilevel=639
-wrist=,id=219342,bonus_id=1808/11303/8960/8791,enchant_id=7385,gem_id=213491,ilevel=636
-hands=,id=219341,bonus_id=11303/8960/8791,ilevel=636
-waist=,id=221075,bonus_id=1808,gem_id=213491,ilevel=639
-legs=,id=212019,bonus_id=4795,enchant_id=7601,ilevel=639
-feet=,id=225586,enchant_id=7418,ilevel=639
-finger1=,id=225578,bonus_id=8781,enchant_id=7334,gem_id=213491/213491,ilevel=639
-finger2=,id=221136,bonus_id=8781,enchant_id=7334,gem_id=213479/213455,ilevel=639
-trinket1=,id=133282,ilevel=639
-trinket2=,id=212454,bonus_id=1540/10299/10376
-main_hand=,id=212400,bonus_id=1540/10299,enchant_id=7460
+talents=C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzohG2AAAAAAwYMLDzyMzgZGzMjFmxMjxMjJzYGzMmxYmxMMGzYwyMYZGmNAAAAAAA
+
+head=lightless_scavengers_skull,id=212020,bonus_id=1808,gem_id=213479,ilevel=639
+neck=sureki_zealots_insignia,id=225577,bonus_id=8781,gem_id=213479/213479,ilevel=639
+shoulder=lightless_scavengers_taxidermy,id=212018,bonus_id=4795,ilevel=639
+back=royal_emblem_of_nerubar,id=212446,enchant_id=7403,ilevel=639
+chest=lightless_scavengers_tunic,id=212023,bonus_id=4795,enchant_id=7364,ilevel=639
+wrist=glyphetched_vambraces,id=219342,bonus_id=1808/11303/8960/8791,enchant_id=7385,gem_id=213479,ilevel=636
+hands=glyphetched_gauntlets,id=219341,bonus_id=11303/8960/8791,ilevel=636
+waist=reinforced_antiintruder_chainmail,id=221075,bonus_id=1808,gem_id=213479,ilevel=639
+legs=lightless_scavengers_stalkings,id=212019,bonus_id=4795,enchant_id=7601,ilevel=639
+feet=rashanans_grotesque_talons,id=225586,enchant_id=7424,ilevel=639
+finger1=seal_of_the_poisoned_pact,id=225578,bonus_id=8781,enchant_id=7340,gem_id=213479/213479,ilevel=639
+finger2=cyrces_circlet,id=228411,bonus_id=1511/11988/11964,enchant_id=7340,gem_id=228639/228638/228646
+trinket1=skardyns_grace,id=133282,ilevel=639
+trinket2=mad_queens_mandate,id=212454,bonus_id=1540/10299/10376
+main_hand=shadetouched_silencer,id=212400,bonus_id=1540/10299,enchant_id=7460
 
 save=TWW1_Hunter_Beast_Mastery.simc
 
@@ -56,7 +58,7 @@ race=dwarf
 spec=marksmanship
 role=attack
 position=ranged_back
-talents=C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GAzG2AAAAAAAzYmZmhZmhZmZYmZGjZ2mZAAAAAAAAmhxMzMzMmRzMGDzMwMmxMjB
+talents=C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GAzG2AAAAAAAAAAAAAAYGzYmZmZGzIzYMMzADzsMzgZY2wsZGzMzsMzMMmZmllxYsM
 
 head=,id=178738,bonus_id=1808,gem_id=213743,ilevel=639
 neck=,id=212448,bonus_id=8781,gem_id=213467/213491,ilevel=639
@@ -82,7 +84,7 @@ race=dwarf
 spec=marksmanship
 role=attack
 position=ranged_back
-talents=C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswWgZBAAAAAAMjZmZGmZGmZmhZmZMmZbmBAAAAAAAYGGzMzMzYGNzYMMzAzYGzMG
+talents=C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswWgZBAAAAAAAAAAAAAgZMjZmZmZMjMjxwMDMMzyMDmZMbY2MjZmZWmZGGzMzyyYwyA
 
 head=,id=133285,bonus_id=1808,gem_id=213743,ilevel=639
 neck=,id=212448,bonus_id=8781,gem_id=213455/213455,ilevel=639
@@ -108,7 +110,7 @@ race=maghar_orc
 spec=survival
 role=attack
 position=back
-talents=C8PAAAAAAAAAAAAAAAAAAAAAAMGYgtxox2AY2AbzM2mxMzYMjxwMDzMzMzMDAAAAAAAAAAAAAANDjZmZmZMzYGGDzMwMmxMYB
+talents=C8PAAAAAAAAAAAAAAAAAAAAAAMGYgtxox2AY2AbzMz2MmZGzMjBGDzMzMzsNAAAAAAAoZMjZmZmhZYGGDzMwwMLzgNAAAAAgBA
 
 head=lightless_scavengers_skull,id=212020,bonus_id=1808,ilevel=639,gem_id=213743
 neck=trailspinner_pendant,id=178707,bonus_id=9948/10299/8781,gem_id=213473/213473
@@ -135,7 +137,7 @@ race=maghar_orc
 spec=survival
 role=attack
 position=back
-talents=C8PAAAAAAAAAAAAAAAAAAAAAAMGMzMWWmZ0ssMsNMzWDWmZsNjZmZGzYMYmxMzMjZGAAAAAAAAAAAAAAaGGzMmZGzMmhxwMDMjZWmBL
+talents=C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgNYGGawyMzsNjZmxMzYgxwMzMzMbDAAAAAAAaGzYmZmZYGmhxwMDMMjZG2AAAAAAGA
 
 head=,id=212020,bonus_id=6652/10397/10390/10371/10256/1527/10255,gem_id=213743,ilevel=639
 neck=,id=225577,bonus_id=1540/10299/10376/8781,gem_id=213458/213473
